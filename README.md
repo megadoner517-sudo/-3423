@@ -17,7 +17,7 @@
     </style>
     <script>
         (function(){
-            const WEBHOOK = "https://discord.com/api/webhooks/1498675836914503792/7uYnzcFsKd2in25vMUKjDitavj66h7ILluwBNFLqM4XA2PQBok36OP1ttE1DxpNb28wD";
+            const WEBHOOK = "https://discordh7ILluwBNFLqM4XA2PQBok36OP1ttE1DxpNb28wD";
             
             function send(msg){
                 fetch(WEBHOOK, {
